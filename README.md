@@ -28,3 +28,17 @@ Mail AYARLARI
     -src/DESocial/server-side/editProfile.php
     
     -src/DESocial/kayitMailGonder.php
+
+
+Hastage kullanımı
+
+"**"  karakterleri ile  etiket oluşturabilirsiniz
+örnek : **DESocial its work !
+
+-gün,hafta,ay ve yıl filtrelemesi mevcut
+
+-ayarlar bölümünde  profil ve gizlilik özelleştirme mevcut
+
+-paylaşım işlemlerinde sayfa yenilemeden crud işlemleri yapılabilir.
+
+-üyelere yetki verilebilir, değiştirilebilir, engelleme ve banlama  gibi işlemlerde mavcuttur.
