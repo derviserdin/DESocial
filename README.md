@@ -25,8 +25,6 @@ Mail AYARLARI
     
     -src/DESocial/server-side/insertUser.php
     
-    -src/DESocial/aktivasyonUser.php
-    
-    -src/DESocial/edit-profile.php
+    -src/DESocial/server-side/editProfile.php
     
     -src/DESocial/kayitMailGonder.php
