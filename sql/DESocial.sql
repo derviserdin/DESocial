@@ -205,7 +205,7 @@ INSERT INTO `users` (`user_id`, `user_adi`, `user_soyadi`, `username`, `password
 (2, 'Mehmet', 'görgüc', 'mehmetgorrguc', '1234', 'dervis.123123123@gmail.com', '2017-01-12 15:04:33', '0000-00-00 00:00:00', 'uye', '', '', '', '0000-00-00', 61, 1, '', 0, 'a', 'a', 'a'),
 (4, 'ahmet', 'görgüc', 'hurkan', '123', 'ahmet@gmail.com', '2017-01-12 15:04:34', '0000-00-00 00:00:00', 'yetkili', '', '', '', '0000-00-00', 70, 33, '95.14.75.13', 1, 'b', 'a', 'a'),
 (5, 'eren', 'görgüc', 'enestuna', '1234', 'eren@gmail.com', '2017-01-14 14:19:29', '0000-00-00 00:00:00', 'yetkili', 'Türkiye', 'Ýstanbul', '', '1991-06-10', 103, 854, '84.51.52.9', 1, 'a', 'a', 'a'),
-(6, 'osman', 'ddad', 'osmanddd', 'aaaadddd', 'a@a.com', '2017-01-14 09:16:35', '0000-00-00 00:00:00', 'yetkili', 'Türkiye', 'Kahramanmaraþ', '', '1978-04-02', 165, 880, '37.155.223.205', 1, 'a', 'a', 'a'),
+(6, 'osman', 'ddad', 'osmanddd', 'aaaadddd', 'a@a.com', '2017-01-14 09:16:35', '0000-00-00 00:00:00', 'yetkili', 'Türkiye', 'Kahramanmaraþ', '', '1978-04-02', 165, 880, '37.155.223.205', 1, 'a', 'a', 'a');
 
 --
 -- Tablo için tablo yapýsý `users_delete`
