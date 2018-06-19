@@ -1,0 +1,25 @@
+body{background-color:#ddd;}
+#header{height: 100px; background-color:#3c8dbc;}
+
+#login{
+    float: right;/* width:1400px; height:100px; padding-left:800px;*/}
+#loginust{height:50px; padding-top:25px;}
+#loginalt{height:50px;}
+.loginbtn{float:left; margin-left:15px;}
+.loginlbl{padding-left:18px; padding-right:82px; float:left;}
+#govde{margin-top: 40px; margin-left:180px; height:500px;}
+#govdesol{float:left;}
+#govdesag{float:left; width:470px; padding-top:80px; margin-left:140px;}
+#footer{background-color:white; height:80px; padding-top:5px;}
+
+#edit_top{background-color:#3c8dbc; height:100px;}
+#edit_top_left{float:left; background-color:#3c8dbc; height:90px; padding-top:10px; margin-left:40px;}
+#edit_top_right{float:right; background-color:#3c8dbc; height:65px; padding-top:35px; margin-right:40px;}
+#edit_bottom{height:500px; margin-top:10px; margin-bottom:10px; padding-left:300px;}
+#edit_bottom_left{float:left; margin-right:10px; width:300px; background-color:white; height:500px; padding-left:30px;}
+#edit_bottom_right{float:left; background-color:white; height:500px; width:600px; text-align:center; padding-right:20px; padding-top:20px;}
+#profile_img{height:340px; border:solid 1px #286090;; padding-top:20px; width:240px; text-align:center; margin-top:20px;}
+#profile_img button{width:200px; margin-top:20px;}
+#profile_img img{border-radius:100px;}
+.row{margin-top: 10px;}
+#profile_img .input-group{width:200px; margin-left:20px; margin-top:20px;}
