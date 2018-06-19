@@ -33,7 +33,7 @@ if (isset($_SESSION['user'])) {
             $mail->SMTPDebug = 1; // hata ayiklama: 1 = hata ve mesaj, 2 = sadece mesaj
             $mail->SMTPSecure = 'ssl'; // Güvenli baglanti icin ssl normal baglanti icin tls
             $mail->SMTPAuth = true;
-            $mail->Host = 'birsancak.com';
+            $mail->Host = 'siteadres';
             $mail->IsHTML(true);
             $mail->Port = 465;
             $mail->SetLanguage("tr", "phpmailer/language");
